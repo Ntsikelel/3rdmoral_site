@@ -14,7 +14,7 @@
     background-color: #fdfdfd;
     overflow: hidden;
     padding: 100px 0;
-       text-decoration-style: solid;
+    text-decoration-style: solid;
     }
 	.t2
 	{
@@ -490,7 +490,7 @@
 
 .fot
 {
-	background: linear-gradient(130deg, #fff 50%, #ffa73b 50%);
+	/* background: linear-gradient(130deg, #fff 50%, #ffa73b 50%); */
 	color : #eee;
 }
 .btn
